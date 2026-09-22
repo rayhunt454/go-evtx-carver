@@ -2,7 +2,7 @@
 
 Библиотека и CLI на Go для разбора журналов событий Windows (EVTX) и для
 карвинга EVTX-чанков/записей напрямую из сырых образов (дисковые дампы,
-дампы памяти, page file) — когда целого корректного `.evtx`-файла нет от команды [PT ESC IR](https://ptsecurity.com/services/incident-response/).
+дампы памяти, page file) — когда целого корректного `.evtx`-файла нет, от команды [PT ESC IR](https://ptsecurity.com/services/incident-response/).
 
 ## Возможности
 
